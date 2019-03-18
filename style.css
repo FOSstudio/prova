@@ -1,7 +1,7 @@
 
 #wrapper {
   width: 100%;
-  background-color: #fff;
+  background-color: red;
 }
 
 
@@ -11,7 +11,7 @@
     right: 80px;
     top: 80px;
     height: 60px;
-    background-color: black;
+   /* background-color: black; */
     font-family: Helevetica;
     color: white;
     font-size: 50px;
@@ -26,7 +26,7 @@
     left: 80px;
     right: 0;
     overflow-y: scroll;
-    background-color: black;
+ /*   background-color: black; */
     top: 140px;
     font-family: Helvetica;
     font-size: 30px;

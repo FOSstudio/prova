@@ -35,16 +35,15 @@
 }
 
 #content-wrapper {
-   margin: 140px 0 80px 390px;
+    font-size: 15px;
+    color: white;
+    font-family: Helvetica;
+    margin: 110px 0 40px 340px;
     padding: 0 30px;
     overflow-y: scroll;
     position: fixed;
     left: 0;
     top: 0;
-    right: 80px;
-    background-color: blue;
+    background-color: black;
     text-shadow: 0 0 black;
-    font-size: 15px;
-    color: white;
-    font-family: Helvetica;
-}
+    right: 40px;

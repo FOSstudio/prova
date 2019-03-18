@@ -11,7 +11,6 @@ body {
   background-color: red;
 }
 
-
 #top-nav {
     position: fixed;
     left: 80px;
@@ -51,3 +50,4 @@ body {
     background-color: black;
     text-shadow: 0 0 black;
     right: 40px;
+}

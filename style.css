@@ -1,5 +1,8 @@
 
-body {    font-family: Helevetica;
+body {    
+  font-family: Helvetica;
+  width: 100%;
+  margin: 0;
 }
 
   #wrapper {

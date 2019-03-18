@@ -7,32 +7,32 @@
 
 #top-nav {
   position: fixed;
-  left: 0;
-  right: 0;
-  top: 0;
-  height: 60px;
-  width: 100%;
-  background-color: green;
+    left: 80px;
+    right: 80px;
+    top: 80px;
+    height: 60px;
+    background-color: white;
 }
 
 #side-nav {
   position: fixed;
-  width: 250px;
-  height:100vh;
-  left: 0;
-  right: 0;
-  overflow-y: scroll;
-  background-color: red;
-  top: 60px;
+    width: 30%;
+    height: 100vh;
+    left: 80px;
+    right: 0;
+    overflow-y: scroll;
+    background-color: red;
+    top: 140px;
 }
 
 #content-wrapper {
-  margin: 60px 0 0 250px;
-  padding: 0 30px;
-  overflow-y: scroll;
-  position: fixed;
-  left: 0;
-  top: 0;
-  height:100vh;
-  background-color: blue;
+   margin: 140px 0 80px 390px;
+    padding: 0 30px;
+    overflow-y: scroll;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 80px;
+    background-color: blue;
+    text-shadow: 0 0 black;
 }
